@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: Projet-EDT-v3.15---Emploi-du-Temps-des-AESH
+Version: 3.1.52
+Summary: Application d'aide à la gestion des emplois du temps des AESH.
+License-File: Licence_gpl-3.0.txt
+Dynamic: license-file
+Dynamic: summary

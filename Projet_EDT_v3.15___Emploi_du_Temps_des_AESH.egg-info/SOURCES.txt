@@ -1,0 +1,7 @@
+Licence_gpl-3.0.txt
+README.md
+setup.py
+Projet_EDT_v3.15___Emploi_du_Temps_des_AESH.egg-info/PKG-INFO
+Projet_EDT_v3.15___Emploi_du_Temps_des_AESH.egg-info/SOURCES.txt
+Projet_EDT_v3.15___Emploi_du_Temps_des_AESH.egg-info/dependency_links.txt
+Projet_EDT_v3.15___Emploi_du_Temps_des_AESH.egg-info/top_level.txt
